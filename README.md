@@ -1,1 +1,1 @@
-# -search-paths
+# search-paths
